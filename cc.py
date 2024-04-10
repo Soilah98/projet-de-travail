@@ -11,3 +11,5 @@ class Truc:
 x = Truc(1)
 y = Truc(6)
 print(x * y)
+
+print('i like git')
